@@ -1,0 +1,21 @@
+#mainContainer{
+    margin: auto;
+    width: 602px;
+    text-align: center;
+}
+
+h1, p{
+    padding: 1em;
+}
+
+button{
+    margin: 0 1em;
+}
+
+#container{
+    height: 600px;
+    border: rgb(180, 180, 180) 1px solid;
+    display: grid;
+    grid-gap: 1px;
+    background-color: rgb(180, 180, 180);
+}
